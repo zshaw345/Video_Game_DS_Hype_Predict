@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Video_Game_Data_Science_Exploration",
+    "\\Video_Game_Data_Science_Exploration\\Notebooks"
   ],
-  "SelectedNode": "\\C:\\Users\\Zach\\Source\\Repos\\Video_Game_DS_Hype_Predict",
+  "SelectedNode": "\\Video_Game_Data_Science_Exploration\\Notebooks\\Pull_IGDB_Data.py",
   "PreviewInSolutionExplorer": false
 }
